@@ -1,5 +1,7 @@
 fn main(){
-    println!("heelo world");
+    let a  =23;
+    let b=12;
+    println!("heelo world,{} {}",a,b);
 }
 
 // cargo - package manager for the rust and the 
